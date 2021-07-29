@@ -1,7 +1,4 @@
-### Olá, eu Sou Leonardo!! 👋
-
-- 🔭 Sou estudande de Ciências da Computação ...
-- 🌱 Atualmente estou em cum curso livre de Dev FullStack com linguagem Python
+###
 
 <div>
   <a href="https://github.com/leoncosta1980">
