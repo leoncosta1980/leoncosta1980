@@ -1,4 +1,4 @@
-## Olá!! Eu sou Leonardo!!
+## Olá!!
 
 <div>
   <a href="https://github.com/leoncosta1980">
