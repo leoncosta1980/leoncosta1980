@@ -1,10 +1,11 @@
 ## Olá!!
 
+<!--
 <div>
   <a href="https://github.com/leoncosta1980">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoncosta1980&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoncosta1980&layout=compact&langs_count=16&theme=dark"/>
-<div>
+<div>-->
 
   
 [![](https://raw.githubusercontent.com/leoncosta1980/leoncosta1980/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
